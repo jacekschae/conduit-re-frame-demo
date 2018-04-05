@@ -1,0 +1,1 @@
+{"version":3,"file":"mranderson047.reagent.v0v8v0_alpha2.reagent.interop.js","sources":["mranderson047/reagent/v0v8v0_alpha2/reagent/interop.cljs"],"mappings":"","names":[],"sourcesContent":["(ns mranderson047.reagent.v0v8v0-alpha2.reagent.interop\n  (:require-macros [mranderson047.reagent.v0v8v0-alpha2.reagent.interop]))\n"]}
